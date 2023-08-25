@@ -75,8 +75,6 @@ As of now the spotify API uses express or curl which i dont fully understand as 
 
 4011 err and 
 
-X-RapidAPI-Key': '95e39c8565mshd52d9d5c85d8b80p174bd5jsn5b0ef354524f'
-'X-RapidAPI-Host': 'spotify23.p.rapidapi.com'
 User-Agent: PostmanRuntime/7.32.3
 Accept: */*
 Postman-Token: 81d28241-ffb1-460b-ad01-cb7c46c1a671
